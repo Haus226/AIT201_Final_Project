@@ -22,4 +22,7 @@ Final Project of course AIT201 Applied Machine Learning using dataset (Boston Ai
 - Experience : Latitude, longitude and review scores in listings dataset
 - For detail, read the [Clustering_Latitude_Longitude.ipynb](AIT201/Clustering_Latitude_Longitude.ipynb) carefully
 
+### Some references:
+- For measuring the performance of clustering in both problems above, refer Section 2.3.10.5-7 at [here](https://scikit-learn.org/stable/modules/clustering.html#clustering-performance-evaluation)
+- For PCA (Principla Component Analysis), a dimension reduction technique, please refer [here](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
 
