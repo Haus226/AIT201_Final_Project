@@ -1,5 +1,5 @@
-# AIT201_Final_Project
-Final Project of course AIT201 Applied Machine Learning using dataset (Boston Airbnb) https://www.kaggle.com/datasets/airbnb/boston
+# AIT201_Project
+Project of course AIT201 Applied Machine Learning using dataset (Boston Airbnb) https://www.kaggle.com/datasets/airbnb/boston
 - The aim of our project is trying to solve three problems with the given Boston Airbnb dataset from two aspects, the hosts and the travellers. The problems are listed out below:
     - Help the host to decide the price based on the features of their listings provided
     - Help the travellers to choose the listings based on the non-null text features in listings dataset
